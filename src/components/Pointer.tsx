@@ -19,7 +19,7 @@ const Pointer = (props: {
             strokeLinejoin="round"
             className="feather feather-menu-pointer text-white size-5"
             >
-                <path d="M13 317.07 16.97 2.51-7.39 7.39-2.51L3 3z"></path>
+                <path d="M3 3l7.07 16.97 2.51-7.39 7.39-2.51L3 3z"></path>
                 <path d="M13 1316 6"></path>
             </svg>
             <div className="absolute top-full left-full ">
