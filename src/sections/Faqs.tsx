@@ -28,7 +28,6 @@ const faqs = [
 ];
 
 export default function Faqs() {
-    const selectedIndex = 0;
     const [selected, setSelected] = useState<number | null>(null);
 
     const handleClick = (index: number) => {
